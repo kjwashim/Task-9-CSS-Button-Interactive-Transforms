@@ -6,7 +6,7 @@ This project is a responsive laundry service landing page built using HTML and C
 
 Clone the repository:
 
-git clone https://github.com/kjwashim/Task-9-CSS-Button-Interactive-Transforms-.git
+git clone https://github.com/kjwashim/Task-9-CSS-Button-Interactive-Transforms.git
 
 Open the project folder:
 
